@@ -4,7 +4,7 @@ import ServiceBox from "./components/service-box";
 import IndividualBox from "./components/individual-box";
 import config from './assets/siteConfig.json';
 import SkateLogo from './images/logo192.png';
-import HeaderImage from './images/header-image.jpeg';
+import HeaderImage from './images/header-image.png';
 
 const PageWrapper = styled.div`
   margin: 0 auto;
